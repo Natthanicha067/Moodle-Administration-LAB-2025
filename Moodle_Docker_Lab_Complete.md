@@ -732,6 +732,7 @@ Learning outcomes:
 ```bash
  รูปหน้าผลลัพธ์การสร้างรายวิชา
 ```
+<img width="1151" height="1002" alt="image" src="https://github.com/user-attachments/assets/52be4a2b-8aa6-43f8-8728-df6b47071e75" />
 
 ---
 
@@ -793,6 +794,7 @@ Programming, Python, Data Science
 ```bash
  รูปหน้า ผลการสร้าง User ใหม่
 ```
+<img width="884" height="802" alt="image" src="https://github.com/user-attachments/assets/3beeae87-0034-42fb-9589-198eca306d12" />
 
 **วิธีที่ 2: Upload Users (CSV)**
 
@@ -816,6 +818,7 @@ student003,Pass@123,สมศักดิ์,ขยัน,student003@example.com
 ```bash
  รูปหน้า ผลการ Upload Users
 ```
+<img width="884" height="900" alt="image" src="https://github.com/user-attachments/assets/6677b8ed-7bee-410d-9cb2-f3e622719191" />
 
 #### 6.4.3 การลงทะเบียนเรียน (Enrolment)
 
